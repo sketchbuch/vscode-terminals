@@ -142,7 +142,7 @@
     "json5": "^0.5.1",
     "lodash": "^4.17.4",
     "mkdirp": "^0.5.1",
-    "pify": "^3.0.0",
+    "pify": "^5.0.0",
     "untildify": "^3.0.3"
   },
   "devDependencies": {
