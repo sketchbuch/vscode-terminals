@@ -136,7 +136,7 @@
   },
   "dependencies": {
     "@types/lodash": "^4.14.118",
-    "@types/node": "^10.12.8",
+    "@types/node": "^13.7.7",
     "absolute": "0.0.1",
     "conf-merge": "^1.0.0",
     "json5": "^0.5.1",
